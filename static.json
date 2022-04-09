@@ -1,3 +1,5 @@
 {
-    "root":"public"
+    "root":"index.html",
+    "clean_urls": true
+  
 }
